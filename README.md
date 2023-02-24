@@ -24,3 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
+[MIT](https://github.com/tugsef/kodluyoruzilkrepo/blob/a94a0423a6662030fc1cc88fa181f05ec4abd2f4/LICENSE)
