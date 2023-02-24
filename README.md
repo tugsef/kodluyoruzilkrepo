@@ -25,3 +25,12 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://github.com/tugsef/kodluyoruzilkrepo/blob/a94a0423a6662030fc1cc88fa181f05ec4abd2f4/LICENSE)
+
+
+> PROJE Patika.dev tarafından belirlenmiş SQL dersi kapsamında tarafından hazırlanmıştır.
+> > İletişim Bilgilerim
+
+[Patika.dev](https://app.patika.dev/sefad) 
+
+
+[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfSkpaHNJQUyUX%2FAggFutbQ%3D%3D)
