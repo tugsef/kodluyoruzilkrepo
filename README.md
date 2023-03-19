@@ -25,11 +25,11 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://github.com/tugsef/kodluyoruzilkrepo/blob/a94a0423a6662030fc1cc88fa181f05ec4abd2f4/LICENSE)
-# :e-mail: Contact
+ # :e-mail: Contact
 |***Sefa Demirtaş***|
 |:-------------|
 |*Java Developer*|
-|[Linkedin](linkedin.com/in/sefa-demirtaş-86b473230)|
+|[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230/)|
 |[Patika.dev](https://app.patika.dev/sefad)|
 |sefa.demirtas91@gmail.com|
 
