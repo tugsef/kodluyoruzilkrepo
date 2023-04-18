@@ -14,6 +14,8 @@ Bu ödevde sizlerden istediğimiz hayal gücünüzü kullanarak öğrendiğiniz 
 Hepinize başarılar, kolay gelsin.
 
 <hr/>
+
+
 # :e-mail: Contact
 |***Sefa Demirtaş***|
 |:-------------|
