@@ -12,3 +12,12 @@
 Bu ödevde sizlerden istediğimiz hayal gücünüzü kullanarak öğrendiğiniz ve araştırarak bulduklarınızla birlikte güzel bir site oluşturmanız. Burada oluşturduğumuz sitenin tasarımı hoşunuza gitmese dahi burada önemli olan nokta CSS elemanlarını efektif bir şekilde kullanabiliyor muyuz onu görmek. Tasarımı ilerleyen ödevlerde daha güzelleştireceğiz.
 
 Hepinize başarılar, kolay gelsin.
+
+<hr/>
+# :e-mail: Contact
+|***Sefa Demirtaş***|
+|:-------------|
+|*Java Developer*|
+|[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230/)|
+|[Patika.dev](https://app.patika.dev/sefad)|
+|sefa.demirtas91@gmail.com|
