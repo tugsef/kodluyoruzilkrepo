@@ -1,0 +1,31 @@
+body{
+    display: block;
+    margin: 8px;
+}
+img[Attritubes="Style"]{
+width: 351px;
+aspect-ratio: auto 351/113;
+height: 113px;
+}
+
+
+
+img{
+        overflow-clip-margin: content-box;
+        overflow: clip;
+        text-align:-webkit-center ;
+}
+
+.center{
+    display: block;
+    text-align: -webkit-center;
+}
+div {
+    font-size: x-small;
+}
+div input{
+    font-size: x-small;
+}
+p{
+    font-size: small;
+}
